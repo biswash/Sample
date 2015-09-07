@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 adadadada
 3rd change
 
 
+=======
+>>>>>>> parent of cf1b714... 2nd commit
 /****************************************************************************
 **
 ** Trolltech hereby grants a license to use the Qt/Eclipse Integration
