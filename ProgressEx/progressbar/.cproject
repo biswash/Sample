@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?fileVersion 4.0.0?>
+
+<cproject>
+<storageModule buildFromInf="true" buildingTestComps="true" cleanLevel="0" concurrentBuildJobs="4" defaultMMPChangedAction="0" infBuildComponents="" infFileLocation="bld.inf" macrosFile="" makeEngineToUse="make" manageDependencies="true" moduleId="com.nokia.carbide.cdt.builder.carbideCPPBuilder" overrideMakeEngine="false" overrideWorkspaceSettings="false" promptForMMPChangedAction="true" useConcurrentBuilding="true" useDebugMode="false" useIncrementalBuilder="false" useKeepGoing="false" useMMPMacros="true"/>
+<storageModule moduleId="org.eclipse.cdt.core.settings">
+<cconfiguration id="Emulator Debug (WINSCW) [S60_5th_Edition]">
+<storageModule buildSystemId="com.nokia.carbide.cdt.builder.CarbideConfigurationDataProvider" id="Emulator Debug (WINSCW) [S60_5th_Edition]" moduleId="org.eclipse.cdt.core.settings" name="Emulator Debug (WINSCW) [S60_5th_Edition]">
+<externalSettings/>
+<extensions>
+<extension id="org.eclipse.cdt.core.PE" point="org.eclipse.cdt.core.BinaryParser"/>
+<extension id="org.eclipse.cdt.core.ELF" point="org.eclipse.cdt.core.BinaryParser"/>
+<extension id="com.nokia.cdt.debug.cw.symbian.SymbianE32" point="org.eclipse.cdt.core.BinaryParser"/>
+<extension id="com.nokia.carbide.cdt.builder.MakeDefErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+<extension id="com.nokia.carbide.cdt.builder.SBSv2ErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+<extension id="com.nokia.carbide.cdt.builder.GCCErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+<extension id="com.nokia.carbide.cdt.builder.MWLDErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+<extension id="com.nokia.carbide.cdt.builder.MWCCErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+<extension id="com.nokia.carbide.cdt.builder.CarbideMakeErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+<extension id="com.nokia.carbide.cdt.builder.RCOMPErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+<extension id="com.nokia.carbide.cdt.builder.MakmakeErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+</extensions>
+</storageModule>
+<storageModule moduleId="CarbideConfigurationDataProvider">
+<ENV_VAR_DATA_ID/>
+<ARGUMENTS_DATA_ID ABLDFREEZEARGSSTORAGE="-r"/>
+<ROM_BUILDER_DATA_ID ROMBUILDWORKINGDIRECTORYSTORAGE="C:\"/>
+</storageModule>
+<storageModule filesCache="C:\Symbian\Carbide\workspace\progressbar\progressbar_c01b1d4c.mmp;C:\Symbian\Carbide\workspace\progressbar\bld.inf;" includesCache="C:/qt/qt-embedded-s60-commercial-src-4.4.4-temple/mkspecs/default;C:/qt/qt-embedded-s60-commercial-src-4.4.4-temple/mkspecs/default/tmp;C:/qt/qt-embedded-s60-commercial-src-4.4.4-temple/include/QtCore;C:/qt/qt-embedded-s60-commercial-src-4.4.4-temple/include/QtCore/tmp;C:/qt/qt-embedded-s60-commercial-src-4.4.4-temple/include/QtGui;C:/qt/qt-embedded-s60-commercial-src-4.4.4-temple/include/QtGui/tmp;C:/qt/qt-embedded-s60-commercial-src-4.4.4-temple/include;C:/qt/qt-embedded-s60-commercial-src-4.4.4-temple/include/tmp;C:/S60/devices/S60_5th_Edition_SDK_v0.9/epoc32/include;C:/S60/devices/S60_5th_Edition_SDK_v0.9/epoc32/include/stdapis;C:/S60/devices/S60_5th_Edition_SDK_v0.9/epoc32/include/stdapis/sys;C:/Symbian/Carbide/workspace/progressbar;C:/Symbian/Carbide/workspace/progressbar/tmp;" macrosCache="__EXE__;__SYMBIAN32__;__SUPPORT_CPP_EXCEPTIONS__;QT_KEYPAD_NAVIGATION;UNICODE;__CW32__;__S60_50__;__WINSCW__;QT_GUI_LIB;_UNICODE;__S60_3X__;__S60_5X__;_DEBUG;__SERIES60_3X__;__WINS__;QT_CORE_LIB;" moduleId="configDataCache" sourcesCache="" timestampCache="1231063890111" useMmpMacrosCache="true"/>
+<storageModule moduleId="org.eclipse.cdt.core.externalSettings"/>
+<storageModule moduleId="org.eclipse.cdt.internal.ui.text.commentOwnerProjectMappings"/>
+</cconfiguration>
+</storageModule>
+</cproject>
